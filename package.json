@@ -1,0 +1,13 @@
+{
+  "name": "csf-basic-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csf-basic-authentication.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stop": "killall -SIGINT server.js"
+  },
+  "author": "Patrick Moro",
+  "license": "ISC"
+}
